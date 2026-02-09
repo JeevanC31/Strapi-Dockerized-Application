@@ -39,7 +39,7 @@ strapi-app/
 ├── package-lock.json
 └── README.md
 
-
+```
 ---
 
 ##  Prerequisites
