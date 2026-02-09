@@ -25,7 +25,7 @@ It is part of the internship task to understand Docker, containerization, and ba
 
 ---
 
-##  Project Structure
+## 📁 Project Structure
 
 strapi-app/
 ├── config/
@@ -33,9 +33,9 @@ strapi-app/
 ├── public/
 ├── src/
 ├── .dockerignore
-├── .env
 ├── Dockerfile
 ├── package.json
+├── package-lock.json
 └── README.md
 
 ---
