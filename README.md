@@ -27,6 +27,7 @@ It is part of the internship task to understand Docker, containerization, and ba
 
 ## 📁 Project Structure
 
+```text
 strapi-app/
 ├── config/
 ├── database/
@@ -37,6 +38,7 @@ strapi-app/
 ├── package.json
 ├── package-lock.json
 └── README.md
+
 
 ---
 
